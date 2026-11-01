@@ -1,0 +1,1 @@
+# DayPeek — Python 3.10+, tkinter (stdlib)
